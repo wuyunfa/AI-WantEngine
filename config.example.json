@@ -1,0 +1,20 @@
+{
+  "speed_factor": 10,
+  "enable_openclaw_call": false,
+  "openclaw_cli_path": "openclaw",
+  "boredom_threshold": 60,
+  "curiosity_threshold": 60,
+  "energy_warning_line": 25,
+  "energy_recovery_line": 60,
+  "energy_safe_line": 40,
+  "energy_healthy_line": 70,
+  "fatigue_growth_per_tick": 1,
+  "fatigue_warning_line": 10,
+  "fatigue_critical_line": 20,
+  "consecutive_low_energy_limit": 15,
+  "force_rest_recovery_line": 80,
+  "max_history": 8,
+  "exploration_chance": 0.2,
+  "log_level": "INFO",
+  "log_file": "~/.wantengine.log"
+}
